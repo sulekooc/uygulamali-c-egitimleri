@@ -54,7 +54,7 @@ Sunucu yazılımı geliştirme sürecinde uygulama olarak geliştirilecek , sonu
 
 ### Ders 12
 - [Dersi izle](https://drive.google.com/file/d/1FGaU9lV0j8eGvFTypltdN439ZUBjUsxd/view?usp=sharing "Ders 12")
-- [Kodları görüntüle](./ders12/main.cpp)
+- [Kodları görüntüle](./ders12/ders12)
 
 ### Ders 13
 - [Dersi izle](https://drive.google.com/file/d/1Qm98WbRZN4ftCBVW5K3fuEaFfEhSVjGQ/view?usp=sharing "Ders 13")
